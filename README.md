@@ -1,4 +1,5 @@
 Proiektuaren Dokumentazioa:
+BIDEOA:
 
 Sarrera Viajes Android-erako garatutako aplikazio mugikor natibo bat da, erabiltzaileei hiri desberdinetan hotelak bilatzeko, haien kokapen zehatza mapa interaktibo batean ikusteko eta erreserbak kudeatzeko aukera ematen diena.
 
