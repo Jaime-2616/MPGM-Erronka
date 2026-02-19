@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+<item
+    android:id="@+id/etxea"
+    android:icon="@drawable/bottom_btn1"
+    android:title="Etxea"
+    app:cnb_backgroundColor="@color/blue"
+    app:cnb_iconColor="@color/white"/>
+    <item
+        android:id="@+id/esploratzailea"
+        android:icon="@drawable/bottom_btn2"
+        android:title="Esploratzailea"
+        app:cnb_backgroundColor="@color/blue"
+        app:cnb_iconColor="@color/white"/>
+    <item
+        android:id="@+id/laster_marka"
+        android:icon="@drawable/bottom_btn3"
+        android:title="Laster-marka"
+        app:cnb_backgroundColor="@color/blue"
+        app:cnb_iconColor="@color/white"/>
+    <item
+        android:id="@+id/profila"
+        android:icon="@drawable/bottom_btn4"
+        android:title="Profila"
+        app:cnb_backgroundColor="@color/blue"
+        app:cnb_iconColor="@color/white"/>
+</menu>

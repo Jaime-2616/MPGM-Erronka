@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "516903046986",
+    "project_id": "jaime2626262626",
+    "storage_bucket": "jaime2626262626.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:516903046986:android:775faba767d667da69bbb3",
+        "android_client_info": {
+          "package_name": "com.example.viajes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACvYwwYDCoecHAqii6gMAO60bkHk9dkqc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

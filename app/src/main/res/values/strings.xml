@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Viajes</string>
+    <string name="esploratzailea_hitza_gurekin">Esploratzailea hitza gurekin</string>
+    <string name="textview">TextView</string>
+    <string name="hasi">Hasi</string>
+    <string name="kaixo_jaime">Kaixo Jaime</string>
+    <string name="kalea_helbidea_hiria">Kalea, helbidea, hiria...</string>
+    <string name="bilatu">Bilatu</string>
+    <string name="gozatu_zure_bidaiaz_nmugarik_gabe">Gozatu zure bidaiaz \nmugarik gabe</string>
+    <string name="email">Posta elektronikoa</string>
+    <string name="password">Pasahitza</string>
+    <string name="login">Hasi saioa</string>
+    <string name="register">Erregistratu</string>
+    <string name="no_account">Ez duzu konturik? Erregistratu</string>
+</resources>
