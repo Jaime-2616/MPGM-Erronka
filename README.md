@@ -1,4 +1,5 @@
 Proiektuaren Dokumentazioa:
+
 BIDEOA:
 
 Sarrera Viajes Android-erako garatutako aplikazio mugikor natibo bat da, erabiltzaileei hiri desberdinetan hotelak bilatzeko, haien kokapen zehatza mapa interaktibo batean ikusteko eta erreserbak kudeatzeko aukera ematen diena.
@@ -19,7 +20,8 @@ Irudien Karga: Glide URL-etatik datozen irudiak modu eraginkorrean eta cache bid
 
 Erabiltzaile Interfazea: Material Design, ChipNavigationBar eta ViewPager2.
 
-Moduluen Funtzionamendua A. Hotel Bilaketa (API Integrazioa)
+Moduluen Funtzionamendua 
+A. Hotel Bilaketa (API Integrazioa)
 Aplikazioak Retrofit-en oinarritutako sare-arkitektura erabiltzen du.
 
 Datuen Kontsumoa: Kanpoko hotel API zerbitzu batera konektatzen da (ApiService.java-n emandakoa) erabiltzaileak sartutako hiriaren arabera egonaldi, prezio eta erabilgarritasunari buruzko datuak denbora errealean lortzeko.
